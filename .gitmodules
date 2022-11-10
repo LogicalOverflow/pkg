@@ -1,15 +1,15 @@
 [submodule "deps/fmt"]
 	path = deps/fmt
-	url = git@github.com:motis-project/fmt.git
+	url = https://github.com/motis-project/fmt.git
 [submodule "deps/utl"]
 	path = deps/utl
-	url = git@github.com:motis-project/utl.git
+	url = https://github.com/motis-project/utl.git
 [submodule "deps/boost"]
 	path = deps/boost
-	url = git@github.com:motis-project/boost.git
+	url = https://github.com/motis-project/boost.git
 [submodule "deps/zlib"]
 	path = deps/zlib
-	url = git@github.com:motis-project/zlib.git
+	url = https://github.com/motis-project/zlib.git
 [submodule "deps/cista"]
 	path = deps/cista
-	url = git@github.com:felixguendling/cista.git
+	url = https://github.com/felixguendling/cista.git
